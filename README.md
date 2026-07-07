@@ -2,8 +2,11 @@
 Open-source and public AI system for assessments of the anthropogenic changes to Earth
 
 Project Registration Draft: The AI EYE Framework
+
 Project Name: The AI EYE (Planetary Assessment Platform)
-Lead Architect: Dorin Preda 
+
+Lead Architect: Dorin Preda
+
 Licensing & Nature: Open-Source Blueprint / Global Digital Public Infrastructure
 1. Systemic Objective (The Problem Addressed)
 Global climate governance is severely hindered by institutional fragmentation, political gatekeeping, and short-term economic interests. As detailed in Restoring Climate (Preda, D.), current developmental systems fail to align with the objective physical laws of planetary balance. The AI EYE framework aims to bypass localized human biases by creating a non-commercial, and detached digital infrastructure for impartial AI assessments. It quantifies the long-term repercussions of human actions and provides direct, unblockable public data to steer human behavior toward realistic and beneficial ecological restoration.
