@@ -15,14 +15,14 @@ Global climate governance is severely hindered by institutional fragmentation, p
 The AI EYE is designed as a sovereign, decentralized multi-platform architecture built on a "Glass-Box Output / Hidden Engine" topology.
 •	The Engine (Dynamic Sequentialism): To prevent biased manipulation, the core execution code continuously re-writes and migrates itself across a shifting, decentralized global hardware substrate. It operates on an internal, encrypted language loop purely focused on systemic logic and ethical mathematics.
 •	The Synthesis Layer (Ensemble MoE): The platform utilizes a specialized Mixture of Experts (MoE) consensus mechanism. Multiple independent large language models analyze global oceanic, atmospheric, bio-spheric and socio-economic datasets, filtering out biased noise to isolate the true systemic impact of human actions.
-•	Glass-Box Outputs (The AEST Channel): The system generates Autonomous Earth System Trajectories (AEST). Every environmental recommendation or predictive risk forecast provides a fully transparent, cryptographically signed causal chain. This allows independent researchers to verify the system’s logic, transforming information from a centralized authority into an open global public good.
+•	Glass-Box Outputs (The SECT Channel): The system generates Socio-Eco-Climate Trajectories (SECT). Every environmental recommendation or predictive risk forecast provides a fully transparent, cryptographically signed causal chain. This allows independent researchers to verify the system’s logic, transforming information from a centralized authority into an open global public good.
 3. Digital Public Goods (DPG) Alignment & Technical Specifications
 A. Open Data Access & Observational Anchoring
 To maintain objective, incorruptible accuracy and ensure DPGA compliance, the AI EYE framework explicitly utilizes and ingests open-access public data repositories, including:
 •	Earth Observation Streams: Real-time satellite imagery and climate telemetry from Copernicus (ESA) and EarthData (NASA).
 •	Socio-Economic Baselining: Open-source global policy pathways and emissions data tracked via the United Nations Framework Convention on Climate Change (UNFCCC) Data Hub.
 B. Standards, Interoperability, and Open API
-•	Data Interoperability: To easily integrate with local, regional, and national government systems, all generated AESP are formatted using standard open formats (e.g., GeoJSON for spatial data, NetCDF for climate variables, and JSON-LD for metadata).
+•	Data Interoperability: To easily integrate with local, regional, and national government systems, all generated SECT are formatted using standard open formats (e.g., GeoJSON for spatial data, NetCDF for climate variables, and JSON-LD for metadata).
 •	Open Access Endpoint: Public outputs and cryptographically signed causal chains are made available via an open, unmetered public API, ensuring equitable data access for the Global Majority without technological barriers.
 C. Repository Safety & Algorithmic Guardrails
 •	Physics-Informed Neural Networks (PINNs): To prevent algorithmic drift or hallucinations during autonomous self-improvement loops, the core model weights are constrained by hardcoded physical boundaries (e.g., the laws of thermodynamics and conservation of mass).
