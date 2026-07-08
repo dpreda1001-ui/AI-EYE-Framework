@@ -1,3 +1,4 @@
+![AI EYE Logo](mini_logo_AI_EYE.jpg)
 # AI-EYE-Framework
 Open-source and public AI system for assessments of the anthropogenic changes to Earth
 
