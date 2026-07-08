@@ -1,0 +1,30 @@
+# Contributing to The AI EYE Framework
+
+Thank you for your interest in contributing to **The AI EYE**. As an open-source framework and a registered candidate for Digital Public Infrastructure, this project relies on a global community of climate scientists, AI safety researchers, and decentralized software engineers.
+
+By contributing to this repository, you help ensure that **Autonomous Earth System Projections** remain transparent, incorruptible, and equitable for all humanity.
+
+## 1. Our Open Development Principles
+To align with the Digital Public Goods Alliance (DPGA) standards, all contributions must uphold:
+* **Radical Transparency:** Every algorithmic adjustment or dataset integration must be fully documented and explainable.
+* **Physics Alignment:** The core engine is bound by physical laws. Code modifications must respect established boundary conditions (e.g., thermodynamics and mass conservation).
+* **Bias Mitigation:** We strictly reject any algorithmic modifications that introduce geopolitical, institutional, or commercial biases into the synthesis layer.
+
+## 2. How to Contribute
+You can support the evolution of AI EYE in several ways:
+* **Reporting Bugs:** Open an Issue on GitHub if you detect any algorithmic drift, software anomalies, or data ingestion errors.
+* **Proposing Features:** Suggest improvements to the Ensemble Mixture of Experts (MoE) consensus mechanism or data pipeline integrations by opening an Issue for community discussion.
+* **Code Submissions:** Submit a Pull Request (PR) for bug fixes, optimization scripts, or open-access data adapter implementations.
+
+## 3. Pull Request Guidelines
+When submitting code, please ensure you follow these steps:
+1. **Fork the Repository:** Create a personal fork of the project to work on your changes.
+2. **Create a Feature Branch:** Group your changes into a clear, descriptively named branch (e.g., `fix/nasa-data-pipeline`).
+3. **Write Clear Documentation:** Update the inline code comments and update the system documentation to reflect your changes.
+4. **Sign Your Work:** To meet our Apache 2.0 licensing standards, all commits should be cryptographically signed or include a clear Developer Certificate of Origin (DCO) statement confirming you have the right to submit the code.
+
+## 4. Code of Conduct & Safety Circuit Breakers
+AI EYE operates an independent, autonomous learning loop. Any contribution found to intentionally inject closed proprietary code, backdoor data filters, or malicious logic designed to bypass the open safety circuit breakers will be immediately rejected and permanently flagged by the maintainers.
+
+## 5. Licensing of Contributions
+Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in the AI EYE framework by you shall be licensed under the terms and conditions of the **Apache License, Version 2.0**, without any additional terms or conditions.
