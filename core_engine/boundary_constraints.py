@@ -48,3 +48,4 @@ class PlanetaryGuardrails:
             return False
             
         return True
+# Founder: Dorin Preda, proactivelly assisted by Google AI
