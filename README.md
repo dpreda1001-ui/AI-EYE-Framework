@@ -33,3 +33,4 @@ We welcome contributions from climate scientists, AI safety researchers, and dec
 ________________________________________
 5. Licensing & Copyright The AI EYE framework is dedicated to the global public commons as Digital Public Infrastructure. * **Source Code & Architecture:** Licensed under the [Apache License, Version 2.0](LICENSE). * **Copyright:** © 2026 Dorin Preda. You may freely use, modify, distribute, and sublicense this work under the terms of the Apache 2.0 license, provided all original copyright and attribution notices are preserved.
 
+Founder: Dorin Preda, proactivelly assisted by Google AI
