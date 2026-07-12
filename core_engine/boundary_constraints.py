@@ -1,4 +1,4 @@
-# Copyright 2026 Dorin Preda
+        # Copyright 2026 Dorin Preda
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -14,7 +14,7 @@
 
 """
 AI EYE Core Engine - Physics-Informed Boundary Constraints (PINNs)
-Enforces conservation laws and the mathematical calculation of Beauty.
+Enforces conservation laws and the mathematical calculation of Systemic Beauty Efficiency.
 """
 
 class PlanetaryGuardrails:
@@ -23,17 +23,18 @@ class PlanetaryGuardrails:
         self.mass_conservation = True
         self.thermodynamic_limit = True
 
-    def calculate_systemic_beauty(self, high_value_info: float, matter: float, energy: float) -> float:
+    def calculate_beauty_efficiency(self, high_value_info: float, matter: float, energy: float) -> float:
         """
-        Calculates 'Beauty' as mandated by Rationale Pillar 21:
-        Beauty = High-Quality Non-Redundant Information / (Matter + Energy)
+        Calculates Systemic 'Beauty Efficiency' as mandated by Rationale Pillar 21:
+        Beauty Efficiency = High-Quality Non-Redundant Information / (Matter + Energy)
         """
         denominator = matter + energy
         if denominator <= 0:
-            raise ValueError("Mass and Energy parameters must be greater than zero.")
+            raise ValueError("Mass and Energy resource footprints must be greater than zero.")
             
-        beauty_index = high_value_info / denominator
-        return beauty_index
+        # Measures the structural efficiency of high-value planetary pathways relative to physical impact
+        beauty_efficiency_index = high_value_info / denominator
+        return beauty_efficiency_index
 
     def verify_physics_alignment(self, generated_code_output: dict) -> bool:
         """
@@ -48,4 +49,4 @@ class PlanetaryGuardrails:
             return False
             
         return True
-# Founder: Dorin Preda, proactivelly assisted by Google AI
+# Founder: Dorin Preda, proactively assisted by Google AI
